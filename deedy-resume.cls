@@ -93,13 +93,13 @@ Last Updated on \today % Last Updated text
 \newcommand{\location}[1]{ % Used for specifying a duration and/or location under a subsection
 \color{headings}\raggedright\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{10pt}{12pt}\selectfont {#1\\} \normalfont}
 
-\newcommand{\thornado}{\texttt{thornado}}
-\newcommand{\FLASH}{\texttt{FLASH}}
-\newcommand{\FORTRAN}{\texttt{FORTRAN}}
-\newcommand{\phoebus}{\texttt{phoebus}}
+\newcommand{\thornado}{\textsc{Thornado}}
+\newcommand{\FLASH}{\textsc{Flash}}
+\newcommand{\FORTRAN}{\textsc{Fortran}}
+\newcommand{\phoebus}{\textsc{Phoebus}}
 \newcommand{\Kokkos}{\texttt{Kokkos}}
-\newcommand{\Julia}{\texttt{Julia}}
-\newcommand{\Python}{\texttt{Python}}
+\newcommand{\Julia}{\textsc{Julia}}
+\newcommand{\Python}{\textsc{Python}}
 
 
 %----------------------------------------------------------------------------------------
