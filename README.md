@@ -1,2 +1,2 @@
 # vitae
-My academic CV. Template from the web, wish I remembered where. Compiled with `xelatex`.
+My academic CV. [Stolen](https://github.com/nworbde/vitae)
